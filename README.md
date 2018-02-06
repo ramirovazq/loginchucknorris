@@ -1,6 +1,6 @@
-# formulario_paciente
+# Ejercicio de login y en un backend
 
-> el formulario de insercion de paciente
+> Este es un ejercicio de autenticacion en un backend con Vue.js, y el uso de dicho backend
 
 ## Build Setup
 
