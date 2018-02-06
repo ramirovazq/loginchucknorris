@@ -22,5 +22,8 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # loginchucknorris
 
+
+## El articulo
+https://auth0.com/blog/build-an-app-with-vuejs/
 ## El backend
 https://github.com/auth0-blog/nodejs-jwt-authentication-sample
